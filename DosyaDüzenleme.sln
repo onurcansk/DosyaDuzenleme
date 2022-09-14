@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosyaDüzenleme", "DosyaDüzenleme\DosyaDüzenleme.csproj", "{D82B5BA4-76BE-449C-A81A-858E9E3E8865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosyaDüzenlemeUI", "DosyaDüzenlemeUI\DosyaDüzenlemeUI.csproj", "{ED5828D6-39BB-4AA0-AFBD-FE43A6583871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D82B5BA4-76BE-449C-A81A-858E9E3E8865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82B5BA4-76BE-449C-A81A-858E9E3E8865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82B5BA4-76BE-449C-A81A-858E9E3E8865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82B5BA4-76BE-449C-A81A-858E9E3E8865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5828D6-39BB-4AA0-AFBD-FE43A6583871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5828D6-39BB-4AA0-AFBD-FE43A6583871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5828D6-39BB-4AA0-AFBD-FE43A6583871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5828D6-39BB-4AA0-AFBD-FE43A6583871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71BEDB8-E077-44A4-85EA-198DC48539D5}
+	EndGlobalSection
+EndGlobal
